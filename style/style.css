@@ -1,0 +1,30 @@
+
+#logotipo{
+    max-width:20000px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    border-left:500px;
+    right:0px;    
+  left:0px;
+}
+
+
+.navbar{
+    background:#FF9EDA;   
+    position: fixed;
+    right:0px;    
+    left:0px;
+   } 
+   
+   #title{
+    font-family: 'Fauna One';
+    font-style: normal;
+    font-weight: 400px;/*espessura da fonte*/
+    font-size: 40px;
+    line-height: 49px; /*altura da linha*/
+    text-align: right;
+    color: #ffffff;
+    margin-top: 18px;
+    letter-spacing:4px;
+   }
